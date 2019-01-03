@@ -1,4 +1,4 @@
-# readme [WebMediums](https://webmediums.com)
+# Readme [WebMediums](https://webmediums.com)
 # WebMediums - Stories And More
 ### Welcome to WebMediums. WebMediums searches, analyzes and tells you stories and events from day to day, historical and with a critical point of view and without manipulation, only the truth behind our lines.
 
